@@ -1,1 +1,23 @@
 first file
+
+git fetch vs git pull
+
+git fetch download changes on the remote repository but won't make them in the local directory.
+git fetch + merge is similar to do a pull
+
+git fetch <branch name>
+
+git switch and git checkout
+
+checkout command tells you what is going on in a particular branch.
+
+git checkout <branch name>
+
+Branches are pointers to commits, when we create a branch all git needs to do is create a new pointer
+
+HEAD:
+it helps us to know where are we located.
+
+git branch <name branch> #creates a new branch
+git branch #report branches
+git switch #switches branches
