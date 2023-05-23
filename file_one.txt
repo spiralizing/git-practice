@@ -23,3 +23,6 @@ git branch #report branches
 git switch #switches branches
 
 #this line is added only on the main branch
+
+To rename branches: 
+git branch -m new_name
