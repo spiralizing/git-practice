@@ -21,3 +21,5 @@ it helps us to know where are we located.
 git branch <name branch> #creates a new branch
 git branch #report branches
 git switch #switches branches
+
+#this line is added only on the main branch
