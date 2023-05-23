@@ -26,3 +26,8 @@ git switch #switches branches
 
 To rename branches: 
 git branch -m new_name
+
+MERGING
+Fast forward: when merging from the main branch to new branch.
+
+when merge conflicts emerge they will be noted by git
